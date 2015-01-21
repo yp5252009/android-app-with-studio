@@ -1,0 +1,3 @@
+include ':app'
+include ':renrenfenqi_0108V1'
+include ':xListView'
